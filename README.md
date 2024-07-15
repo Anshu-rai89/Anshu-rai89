@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshu Rai</h1>
 <h3 align="center">Building monetization platform for Scale at Jiocinema ex Postman </h3>
-<h3 align="center">Creator of [nodejs-api-discovery](https://www.npmjs.com/package/nodejs-api-discovery) </h3>
+<h3 align="center">Creator of <a href='https://www.npmjs.com/package/nodejs-api-discovery'> nodejs-api-discovery </a> </h3>
 
 - 👯 I’m looking to collaborate on [Code reviews](https:://codereviews.in)
 
